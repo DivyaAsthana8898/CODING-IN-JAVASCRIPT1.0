@@ -1,0 +1,8 @@
+const a3 = {
+    "abscond" : " to depart in a sudden and secret manner, especially to avoid capture and legal prosecution",
+    "help": "to help someone",
+    "popular ": "Someone who is very famous",
+    "Among": "MORE THAN TWO PEOPLE"
+}
+  console.log(a3)
+  console.log(a3.help)
